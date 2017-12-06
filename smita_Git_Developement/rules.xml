@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<process>
+   <process-def name=":smita_Git_Developement:rules">
+      <sequence />
+      <meta>
+         <peer-location>
+            <location>any</location>
+         </peer-location>
+      </meta>
+      <parameters>
+         <input>
+            <from>inputevent</from>
+            <to>inputevent</to>
+         </input>
+      </parameters>
+   </process-def>
+</process>
+
