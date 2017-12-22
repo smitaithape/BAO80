@@ -1,9 +1,3 @@
-remmoveall
-From 1st one
-<<<<<<< HEAD
-From 2nd
-=======
-From 1st 
->>>>>>> c8f69a501ee1175c2e99f118d833172253ff8956
-to master
-ssedf
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc872f261e7c95c98f34c8602c25647cb513bcf0654b720f29ffabad5dfb0b7
+size 142
